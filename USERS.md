@@ -58,6 +58,7 @@
 - https://they.mint.lgbt **Joey Aliaga** (Software Developer & Student)
 - https://tatewilhelm.me **Tate Wilhelm** (Student, Programmer & Tinkerer)
 - https://mikefoden.com **Mike Foden** (Software Developer)
+- https://do1mj.de **Marc DO1MJ** (Ham Radio Operator)
 
 <!--
  TEMPLATE:
